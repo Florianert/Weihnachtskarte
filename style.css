@@ -1,0 +1,18 @@
+style.css
+@import url(https://fonts.googleapis.com/css2?family=Rochester&display=swap');
+
+body {
+font-family:'Rochester', sans-serif;}
+
+.view-1 {
+height: 100vh;}
+
+.view-1-content {
+ background-color: rgba（0,8,8,8.8）； 
+color:.white；
+}
+
+.background{
+ background-image: url('https://img.fotocommunity.com/weihnachten-in-berchtesgaden-a9445fb4-89c1-42ba-a3b2-f86c0582c880.jpg?height=1080');
+background-size: cover;
+}
